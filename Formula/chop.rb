@@ -1,9 +1,9 @@
 class Chop < Formula
   desc "Unix-philosophy CLI todo manager"
   homepage "https://codeberg.org/mphillips/chop"
-  url "https://codeberg.org/mphillips/chop/releases/download/v0.5.21/chop-macos-arm64"
-  sha256 "3da09a34f559b49e46df6a1ab4f4f9b7416945491a12afbab8ff45a8f16e90cd"
-  version "0.5.21"
+  url "https://codeberg.org/mphillips/chop/releases/download/v0.5.22/chop-macos-arm64"
+  sha256 "18b63605c38e777f2838a08d69a2ef1ba88c144940f63667d07151620dfd85c0"
+  version "0.5.22"
   license "BSD-3-Clause"
 
   def install
